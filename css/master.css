@@ -5,6 +5,7 @@
   margin-top: -10px;
   margin-left: -8px;
   margin-right: -8px;
+  color: white;
 }
 .righth {
   text-align: right;
@@ -104,13 +105,13 @@
 }
 .nine {
   text-align: center;
-  background-color: #212121 ;
+  background-color: #212121;
   color: gray;
   height: 300px;
   margin-left: -10px;
   margin-right: -10px;
 }
-.nine p{
+.nine p {
   color: lightgray;
 }
 .nine1 {
@@ -122,7 +123,7 @@
 .nine3 {
   display: inline-block;
 }
-.nine4{
+.nine4 {
   font-size: 12px;
   color: grey;
 }
