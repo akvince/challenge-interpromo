@@ -27,7 +27,20 @@
 }
 .second {
   font-family: roboto, sans-serif;
-  display: block-inline;
+  text-align: center;
+  font-size: 12px;
+}
+.rightsec {
+  display: inline-block;
+  padding: 100px;
+}
+.centersec {
+  display: inline-block;
+  padding: 100px;
+}
+.leftsec {
+  display: inline-block;
+  padding: 100px;
 }
 .third p {
   font-family: roboto, sans-serif;
@@ -55,10 +68,28 @@
   padding-top: 10px;
   padding-bottom: 10px;
 }
+.five {
+  margin-right: -2px;
+  margin-left: -10px;
+}
+.six {
+  margin-right: -2px;
+  margin-left: -10px;
+}
+.seven {
+  margin-right: -2px;
+  margin-left: -10px;
+}
 .height {
   text-align: center;
+  padding-bottom: 40px;
+  padding-top: 40px;
+  background: #FAFAFA;
+  margin-top: -10px;
+  margin-left: -10px;
+  margin-right: -10px;
 }
-.height p{
+.height p {
   font-family: roboto, sans-serif;
   font-size: 20px;
   color: #616161;
@@ -70,4 +101,28 @@
   border: 1px solid #4DB6AC;
   border-radius: 3px;
   background-color: #4DB6AC;
+}
+.nine {
+  text-align: center;
+  background-color: #212121 ;
+  color: gray;
+  height: 300px;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+.nine p{
+  color: lightgray;
+}
+.nine1 {
+  display: inline-block;
+}
+.nine2 {
+  display: inline-block;
+}
+.nine3 {
+  display: inline-block;
+}
+.nine4{
+  font-size: 12px;
+  color: grey;
 }
