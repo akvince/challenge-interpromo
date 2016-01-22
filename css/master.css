@@ -1,7 +1,10 @@
 .nav {
-  background-image:url(../images/payments-banner-graphic.png);
-  height: 500px;
+  background-image: url(../images/payments-banner-graphic.png);
+  height: 520px;
   padding: 15px 15px 15px 15px;
+  margin-top: -10px;
+  margin-left: -8px;
+  margin-right: -8px;
 }
 .righth {
   text-align: right;
@@ -11,10 +14,11 @@
   text-align: left;
 }
 .centerh {
+  font-size: 30px;
   text-align: center;
   color: white;
 }
-button {
+.centerh button {
   color: #673AB7;
   border: 1px solid;
   border-radius: 5px;
@@ -25,9 +29,9 @@ button {
   font-family: roboto, sans-serif;
   display: block-inline;
 }
-.third p{
+.third p {
   font-family: roboto, sans-serif;
-  color:gray;
+  color: gray;
 }
 .third {
   text-align: center;
@@ -50,4 +54,20 @@ button {
   height: 100px;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+.height {
+  text-align: center;
+}
+.height p{
+  font-family: roboto, sans-serif;
+  font-size: 20px;
+  color: #616161;
+}
+.height button {
+  color: white;
+  padding: 10px 20px 10px 20px;
+  font-size: 15px;
+  border: 1px solid #4DB6AC;
+  border-radius: 3px;
+  background-color: #4DB6AC;
 }
